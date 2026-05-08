@@ -124,15 +124,3 @@ pandas
 matplotlib
 plotly
 ```
-
----
-
-## 📝 Evaluation Criteria Met
-
-| Criterion                       | How It's Addressed                                                                             |
-| :------------------------------ | :--------------------------------------------------------------------------------------------- |
-| **Clarity of Insights**   | Every analysis section answers a specific question with clear, quantified findings             |
-| **Data Integrity**        | Missing values handled with domain knowledge; data types fixed; duplicates checked             |
-| **Visualization Quality** | Mix of Matplotlib and Plotly charts — bar charts, pie charts, grouped bars, interactive plots |
-| **Analytical Depth**      | Covers individual players, player roles, team strategies, venues, and match patterns           |
-| **Reporting**             | Structured notebook with markdown headers, summary table, and clear narrative flow             |
